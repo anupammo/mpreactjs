@@ -1,6 +1,6 @@
-import { Outlet, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 
-const Layout = () => {
+const Navbar = () => {
   return (
     <>
       <nav className="navbar navbar-expand-md">
@@ -25,9 +25,9 @@ const Layout = () => {
         </div>
       </nav>
 
-      <Outlet />
+      {/* <Outlet /> */}
     </>
   )
 };
 
-export default Layout;
+export default Navbar;
