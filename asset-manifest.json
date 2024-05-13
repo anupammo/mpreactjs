@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/mpreactjs/static/js/main.11100766.js",
+    "main.js": "/mpreactjs/static/js/main.b0b6e8c9.js",
     "static/js/453.21daee9f.chunk.js": "/mpreactjs/static/js/453.21daee9f.chunk.js",
     "index.html": "/mpreactjs/index.html",
-    "main.11100766.js.map": "/mpreactjs/static/js/main.11100766.js.map",
+    "main.b0b6e8c9.js.map": "/mpreactjs/static/js/main.b0b6e8c9.js.map",
     "453.21daee9f.chunk.js.map": "/mpreactjs/static/js/453.21daee9f.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.11100766.js"
+    "static/js/main.b0b6e8c9.js"
   ]
 }
