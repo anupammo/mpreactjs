@@ -12,7 +12,7 @@ const Cards = () => {
                                 <div className="card-body">
                                     <h5 className="card-title">Homepage</h5>
                                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                    <Link className='stretched-link' to="./">Explore the Homepage</Link>
+                                    <Link className='stretched-link' to="../">Explore the Homepage</Link>
                                 </div>
                             </div>
                         </div>
@@ -22,7 +22,7 @@ const Cards = () => {
                                 <div className="card-body">
                                     <h5 className="card-title">About us</h5>
                                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                    <Link className='stretched-link' to="./about">Know more about us</Link>
+                                    <Link className='stretched-link' to="../about">Know more about us</Link>
                                 </div>
                             </div>
                         </div>
@@ -32,7 +32,7 @@ const Cards = () => {
                                 <div className="card-body">
                                     <h5 className="card-title">Contact us</h5>
                                     <p className="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                                    <Link className='stretched-link' to="./contact">Contact us now</Link>
+                                    <Link className='stretched-link' to="../contact">Contact us now</Link>
                                 </div>
                             </div>
                         </div>
